@@ -5,7 +5,7 @@
 	"license": "Apache-2.0",
 	"require": {
 		"pocketmine/pocketmine-mp": "^5.0.0",
-		"sof3/await-generator": "^3.3.0"
+		"sof3/await-generator": "dev-master"
 	},
 	"autoload": {
 		"psr-0": {
